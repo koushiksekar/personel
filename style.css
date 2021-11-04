@@ -195,9 +195,7 @@ a{
 }
 
 .row-c p{
-    position: relative;
-    left: 640px;
-    top: 20px;
+    text-align: center;
 }
 
 @media (max-width:1010px){
@@ -272,8 +270,7 @@ a{
         font-size: 22px;
     }
 
-
-
+     
     #contact .detail-2{
         text-align: center;
         bottom: 150px;
@@ -292,10 +289,6 @@ a{
 
     .detail-3 h5{
         padding-bottom: 30px;
-    }
-
-    #contact .row-c{
-        padding-bottom: -400px;
     }
 }
 
