@@ -205,7 +205,7 @@ a{
     }
 
     #title h1{
-        font-size: 25px;
+        font-size: 20px;
     }
 
     #title h2{
@@ -213,11 +213,11 @@ a{
     }
 
     #title h3{
-        font-size: 19px;
+        font-size: 15px;
     }
 
     #about p{
-        font-size: 20px;
+        font-size: 15px;
     }
 
     #about .obv{
@@ -225,15 +225,15 @@ a{
     }
 
     #about h1{
-        font-size: 32px ;
+        font-size: 25px ;
     }
 
     .obv h3{
-        font-size: 26px;
+        font-size: 19px;
     }
 
     #skills h1{
-        font-size: 32px;
+        font-size: 28px;
     }
 
     #skills .nnee{
