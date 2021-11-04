@@ -195,12 +195,102 @@ a{
 }
 
 .row-c p{
-    position: relative;
-    left: 640px;
-    top: 20px;
+    text-align: center;
 }
 
+@media (max-width:1010px){
+    .my-img{
+        width: 75%;
+        left: 20px;
+    }
 
+    #title h1{
+        font-size: 25px;
+    }
+
+    #title h2{
+        font-size: 29px;
+    }
+
+    #title h3{
+        font-size: 19px;
+    }
+
+    #about p{
+        font-size: 20px;
+    }
+
+    #about .obv{
+        padding: 0px;
+    }
+
+    #about h1{
+        font-size: 32px ;
+    }
+
+    .obv h3{
+        font-size: 26px;
+    }
+
+    #skills h1{
+        font-size: 32px;
+    }
+
+    #skills .nnee{
+        width: 18%;
+    }
+  
+    #contact h1{
+        font-size: 32px;
+    }
+
+    #contact h3{
+        position: static;
+    }
+
+    #contact .detail{
+        text-align: left;
+        position: relative;
+        left: 60px;
+    }
+
+    .detail i{
+        font-size: 30px;
+    }
+
+
+    #contact .detail-a{
+        text-align: right;
+        position: relative;
+        bottom: 240px;
+    }
+
+    .detail h2{
+        right: 150px;
+        font-size: 22px;
+    }
+
+     
+    #contact .detail-2{
+        text-align: center;
+        bottom: 150px;
+        right: 60px;
+    }
+
+    .detail-2 h5{
+        padding-bottom: 30px;
+    }
+
+    #contact .detail-3{
+        text-align: center;
+        bottom: 435px;
+        left: 200px;
+    }
+
+    .detail-3 h5{
+        padding-bottom: 30px;
+    }
+}
 
 
 
